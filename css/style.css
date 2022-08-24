@@ -1,0 +1,90 @@
+*{
+    margin: 3px;
+}
+header{
+    background-color:rgb(53, 51, 51);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.firstpage{
+    background: url('/asset/kkk.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120vh;
+    margin: 0;
+    display: flex;
+}
+button{
+    padding: 10px 20px;
+    border-radius: 50px;
+    background-color: rgb(53, 51, 51);
+    color: white;
+}
+
+.form-group{
+    width: 20vw;
+    padding: 10px 30px;
+    margin: 20px 10px;
+    align-items: center;
+    color: white;
+}
+.bar{
+    padding: 0 40%;
+    margin-right: -30%;
+    display: flex;
+}
+.page-head{
+    margin: 40px 10px;
+    text-align: right;
+}
+.form-group h1{
+    text-align: center;
+}
+label{
+    display: flex;
+    color: white;
+
+}
+input{
+    padding: 5px 10px;
+}
+.secondpage{
+    display: flex;
+    padding: 10px 10px;
+    text-align: center;
+}
+.secondpage img{
+    width: 30vw;
+}
+
+.lastpage{
+    display: flex;
+}
+.row-2{
+    display: flex;
+}
+.row-icon{
+    background-color: black;
+    color: white;
+    border-radius: 50%;    
+}
+.d-flex{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.mage{
+    display: flex;
+    margin-right: 30px;
+    width: 100%;
+}
+.mage p{
+    padding: 0 5px;
+}
+
+.footer{
+    height: 10vh;
+    padding: 5px 5px;
+    text-align: center;
+}
